@@ -13,6 +13,7 @@ platforms :jruby do
 
   gem 'activerecord-jdbc-adapter'
   gem 'jdbc-mysql', :require => false
+  gem 'trinidad'
 end
 
 
